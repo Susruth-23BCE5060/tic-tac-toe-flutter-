@@ -34,10 +34,15 @@ A simple Tic Tac Toe game built using Flutter, where **Player X** is the user an
 - Android Studio / VS Code
 - Device or Emulator
 
-### Run Locally
+## 🚀 How to Use
+
+1. Create a new Flutter project:
 
 ```bash
-git clone https://github.com/yourusername/tic_tac_toe_bot.git
+flutter create tic_tac_toe_bot
 cd tic_tac_toe_bot
-flutter pub get
-flutter run
+```
+2.	Replace the contents of lib/main.dart with this main.dart
+
+3.	Run the app:
+    	flutter run
